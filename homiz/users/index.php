@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p><a href="./login.php">Page de login</a></p>
+    <p><a href="login.php">Page de login</a></p>
 </body>
 </html>
