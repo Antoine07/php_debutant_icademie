@@ -13,7 +13,7 @@
 
 <body>
     <div>
-        <form action="./includes/login.php" method="post">
+        <form action="includes/login.php" method="post">
             <div>
                 <label for="email">Email</label>
                 <input id="email" type="text" name="email" value="" placeholder="Email"/>
